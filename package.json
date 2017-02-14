@@ -29,7 +29,7 @@
     "gridfs-stream": "^1.1.1",
     "lodash": "^4.6.1",
     "loopback-connector": "^2.3.0",
-    "mongodb": "^2.1.11",
+    "mongodb": "2.2.22",
     "string_decoder": "^0.10.31"
   },
   "devDependencies": {
